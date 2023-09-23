@@ -7,7 +7,7 @@ ckan 오픈소스기반 한양대 ERICA 데이터 포털사이트 개발
   <tbody>
   <tr>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/88085338?v=4" width="100px;" alt=""/><br /><sub><b><a href="https://github.com/mintaek22">오민택</a></b></sub><br /></td>
-      <td align="center"><img src="https://avatars.githubusercontent.com/u/69197412?v=4" width="100px;" alt=""/><br /><sub><b><a href="https://github.com/jayrhie">장시영</a></b></sub><br /></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/25243469?v=4" width="100px;" alt=""/><br /><sub><b><a href="https://github.com/JerryJang">장시영</a></b></sub><br /></td>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/112607959?v=4" width="100px;" alt=""/><br /><sub><b><a href="https://github.com/a-pho">이정민</a></b></sub><br /></td>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/63039855?v=4" width="100px;" alt=""/><br /><sub><b><a href="https://github.com/minSsan">박민선</a></b></sub><br /></td>
    </tr>
