@@ -17,9 +17,11 @@
 
 ## 주요기능 소개
 
-|<b>홈 화면</b>|<b>데이터 찾</b>|
+|<b>홈 화면</b>|<b>데이터 찾기</b>|
 |:-:|:-:|
 |![HYU-ERICA-open-data-portal](https://github.com/ckan-project/.github/assets/112607959/e4302580-68fc-400b-843a-dc8515d7e817)|![Desktop - 1](https://github.com/ckan-project/.github/assets/112607959/cfaa1bb8-042c-436a-a9e4-2075ee154e74)|
+|<b>데이터 상세 정보</b>|
+|![Desktop - 2](https://github.com/ckan-project/.github/assets/112607959/4710a777-a99f-4d34-9638-2747c8e71a70)|
 
 ## Front-end
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white"> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"> 
