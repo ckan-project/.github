@@ -20,9 +20,10 @@
 |<b>Header</b>|<b>Footer</b>|
 |:-:|:-:|
 |![Header](https://github.com/ckan-project/.github/assets/112607959/0733912b-9e0e-4e4a-9d26-9b60228accc5)|![Footer](https://github.com/ckan-project/.github/assets/112607959/3f77b0e2-a6e5-4675-9084-a580569ac492)|
-|<b>데이터 포털 메인</b>|<b>데이터 검색 목록</b>|<b>데이터 상세 정</b>|
-|![데이터 포털 메인](https://github.com/ckan-project/.github/assets/112607959/0b2b8e89-36df-41ed-a805-bb27985dafd9)|![데이터 검색 목록](https://github.com/ckan-project/.github/assets/112607959/feb6928d-656a-4fb8-b40c-7fe4928522a0)|![데이터 상세 정보](https://github.com/ckan-project/.github/assets/112607959/ca1fbccc-5edc-4217-9024-3fa0638e712f)|
-
+|<b>데이터 포털 메인</b>|<b>데이터 검색 목록</b>|
+|![데이터 포털 메인](https://github.com/ckan-project/.github/assets/112607959/0b2b8e89-36df-41ed-a805-bb27985dafd9)|![데이터 검색 목록](https://github.com/ckan-project/.github/assets/112607959/feb6928d-656a-4fb8-b40c-7fe4928522a0)|
+|<b>데이터 상세 정보</b>|
+|![데이터 상세 정보](https://github.com/ckan-project/.github/assets/112607959/ca1fbccc-5edc-4217-9024-3fa0638e712f)|
 
 ## Front-end
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white"> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"> 
