@@ -21,7 +21,6 @@
 |:-:|:-:|
 |![데이터 포털 메인](https://github.com/ckan-project/.github/assets/112607959/0b2b8e89-36df-41ed-a805-bb27985dafd9)|![데이터 검색 목록](https://github.com/ckan-project/.github/assets/112607959/fe0d89bd-0924-4238-b221-0d805d2bd0df)|
 |<b>데이터 상세 정보 (데이터 상세 정보, 시각화)</b>|
-|:-:|:-:|
 |![데이터 상세 정보](https://github.com/ckan-project/.github/assets/112607959/5abd76ad-f044-41fc-82c6-a2933b591394)|
 
 ## Front-end
