@@ -19,9 +19,10 @@
 
 |<b>데이터 포털 메인 (퀵메뉴, 신규/인기 데이터 요약 정보)</b>|<b>데이터 검색 목록 (주제별, 기관별, 제공유형별 검색 필터)</b>|
 |:-:|:-:|
-|![데이터 포털 메인](https://github.com/ckan-project/.github/assets/112607959/0b2b8e89-36df-41ed-a805-bb27985dafd9)|![데이터 검색 목록](https://github.com/ckan-project/.github/assets/112607959/feb6928d-656a-4fb8-b40c-7fe4928522a0)|
-|<b>데이터 상세 정보 (데이터 정보, 시각화)</b>|
-|![데이터 상세 정보](https://github.com/ckan-project/.github/assets/112607959/ca1fbccc-5edc-4217-9024-3fa0638e712f)|
+|![데이터 포털 메인](https://github.com/ckan-project/.github/assets/112607959/0b2b8e89-36df-41ed-a805-bb27985dafd9)|![데이터 검색 목록](https://github.com/ckan-project/.github/assets/112607959/fe0d89bd-0924-4238-b221-0d805d2bd0df)|
+|<b>데이터 상세 정보 (데이터 상세 정보, 시각화)</b>|
+|:-:|:-:|
+|![데이터 상세 정보](https://github.com/ckan-project/.github/assets/112607959/5abd76ad-f044-41fc-82c6-a2933b591394)|
 
 ## Front-end
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white"> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white">
