@@ -33,6 +33,8 @@
 
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"> 
 
+## 발표자료
+![캡스톤-디자인-전시회-판넬 (2)-1](https://github.com/mintaek22/Algorithm/assets/88085338/86e5fbb0-84da-451b-a624-85992e04a3aa)
 
 ## 팀원
 <table>
